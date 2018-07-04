@@ -1,0 +1,78 @@
+2018/06/29 13:31:18 heroku-cli/5.7.1-c574890 (linux-amd64) go1.7.5 /usr/local/lib/heroku/bin/heroku cmd: version
+2018/06/29 13:31:18 triggering background update
+2018/06/29 13:31:18 heroku-cli/5.7.1-c574890 (linux-amd64) go1.7.5 /usr/local/lib/heroku/bin/heroku cmd: update
+2018/06/29 13:31:19 heroku-cli: Updating to 5.12.0-211263f...
+2018/06/29 13:31:23 heroku-cli/5.7.1-c574890 (linux-amd64) go1.7.5 /usr/local/lib/heroku/bin/heroku cmd: login
+2018/06/29 13:31:53 updated to 5.12.0-211263f
+2018/06/29 13:31:53 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 13:31:53 heroku-cli/5.12.0-211263f (linux-amd64) go1.7.5 /home/stanaka/.local/share/heroku/cli/bin/heroku cmd: update
+2018/06/29 13:31:53 heroku-cli: Updating plugins...
+2018/06/29 13:31:53  done
+2018/06/29 13:31:54 setting update to v6 channel
+2018/06/29 13:31:54 heroku-cli: Updating to 5.99.0-1029d0b... (v6)
+2018/06/29 13:31:58 updated to 5.99.0-1029d0b
+2018/06/29 14:21:21 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:25:05 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:25:52 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:26:08 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:27:20 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:29:24 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:41:23 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:41:33 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 05:41:35 Error: Error opening web browser.
+Error: Exited with code 3
+Manually visit https://stark-sea-37346.herokuapp.com/ in your browser.
+    at err (/home/stanaka/.local/share/heroku/client/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/stanaka/.local/share/heroku/client/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:272:13)
+    at ChildProcess.emit (events.js:180:13)
+    at maybeClose (internal/child_process.js:936:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+2018/06/29 14:42:45 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/06/29 14:43:27 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/03 23:52:59 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/03 23:56:03 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/03 23:56:13 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/03 14:56:15 Error: Error opening web browser.
+Error: Exited with code 3
+Manually visit https://stark-sea-37346.herokuapp.com/ in your browser.
+    at err (/home/stanaka/.local/share/heroku/client/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/stanaka/.local/share/heroku/client/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:272:13)
+    at ChildProcess.emit (events.js:180:13)
+    at maybeClose (internal/child_process.js:936:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+[2018-07-04T00:57:03+09:00] heroku-cli: Updating CLI...
+[2018-07-04T00:57:04+09:00] heroku-cli: Updating CLI from 6.99.0-ec9edad to 7.5.10...2018/07/05 00:39:59 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/05 00:43:34 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/05 00:50:50 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018-07-04T15:50:50.977Z Warning: ligin is not a heroku command.
+2018-07-04T15:50:50.977Z     at Object.warn (/home/stanaka/.local/share/heroku/client/7.5.10/node_modules/@oclif/errors/lib/index.js:33:15)
+2018-07-04T15:50:50.977Z     at Object.warn (/home/stanaka/.local/share/heroku/client/7.5.10/node_modules/@oclif/config/lib/config.js:113:42)
+2018-07-04T15:50:50.977Z     at Object.hook (/home/stanaka/.local/share/heroku/client/7.5.10/node_modules/@oclif/plugin-not-found/lib/index.js:25:10)
+2018-07-04T15:50:55.285Z Error: Run heroku help for a list of available commands.
+2018-07-04T15:50:55.285Z     at Object.error (~/.local/share/heroku/client/7.5.10/node_modules/@oclif/errors/lib/index.js:22:17)
+2018-07-04T15:50:55.285Z     at Object.error (~/.local/share/heroku/client/7.5.10/node_modules/@oclif/config/lib/config.js:111:30)
+2018-07-04T15:50:55.285Z     at Object.hook (~/.local/share/heroku/client/7.5.10/node_modules/@oclif/plugin-not-found/lib/index.js:39:10)
+2018/07/05 00:51:01 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018-07-04T15:51:31.184Z Error: Invalid credentials provided.
+2018-07-04T15:51:31.184Z Error ID: unauthorized
+2018-07-04T15:51:31.184Z     at Login.login (~/.local/share/heroku/client/7.5.10/node_modules/@heroku-cli/command/lib/login.js:79:19)
+2018/07/05 00:51:38 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018-07-04T15:51:57.558Z Error: Invalid credentials provided.
+2018-07-04T15:51:57.559Z Error ID: unauthorized
+2018-07-04T15:51:57.559Z     at Login.login (~/.local/share/heroku/client/7.5.10/node_modules/@heroku-cli/command/lib/login.js:79:19)
+2018/07/05 00:51:59 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/05 00:53:21 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/05 00:53:32 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku
+2018/07/04 15:53:34 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://stark-sea-37346.herokuapp.com/ in your browser.
+    at err (/home/stanaka/.local/share/heroku/client/7.5.10/node_modules/heroku-cli-util/lib/open.js:12:16)
+    at ChildProcess.<anonymous> (/home/stanaka/.local/share/heroku/client/7.5.10/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:273:13)
+    at ChildProcess.emit (events.js:182:13)
+    at maybeClose (internal/child_process.js:961:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:248:5)
+2018/07/05 00:58:56 Executing /home/stanaka/.local/share/heroku/cli/bin/heroku

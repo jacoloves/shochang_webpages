@@ -1,0 +1,71 @@
+[2018-07-03T23:53:00+09:00] starting `/home/stanaka/.local/share/heroku/client/bin/heroku update --autoupdate` from /home/stanaka/.local/share/heroku/client/bin/heroku.js login
+waiting until 2018-07-03T15:53:00.000Z to update
+waiting until 2018-07-03T15:53:00.000Z to update
+waiting until 2018-07-03T15:53:00.000Z to update
+waiting until 2018-07-03T15:53:00.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+waiting until 2018-07-03T15:56:14.000Z to update
+time to update
+heroku-cli: Updating CLI...
+heroku-cli: Updating CLI from 6.99.0-ec9edad to 7.5.10... done
+heroku: Updating CLI... already on latest version: 7.5.10
+heroku: migrating plugins
+heroku: done migrating plugins
